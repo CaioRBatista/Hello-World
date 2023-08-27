@@ -1,5 +1,5 @@
 # Hello, World!
- Primeiro repositório do curso de Git e GitHub.
+ The first Git GitHub course repository.
 
-Repositório criado durante uma aula ao vivo!
-Cada parágrafo, tag, classe, variável, o código em si... Irei escrever em Inglês para melhor aprendizado e visibilidade.
+Repository created in a live class!
+On my journey I will be writing codes in English, for better visibility and improvement. 
